@@ -1,4 +1,4 @@
-# Vrinda-Store-Annual-Report
+# Vrinda-Store-Annual-Report- Project in Excel
 
 -----Insights from the project: Women are more likely to buy compared to men(65%)
 Maharashtra, Karnataka and Utter Pradesh are the top 3 states having sales more than 35%.
